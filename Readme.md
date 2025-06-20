@@ -1,42 +1,42 @@
-#  Sistema Interactivo
+# Interactive System
 
-Este proyecto es una página web interactiva desarrollada con **HTML**, **CSS** y **JavaScript**. Fue creada como base para explorar interfaces web dinámicas.
-
----
-
-##  Contenido del Repositorio
-
-- `index.html` – Página principal del sistema interactivo.
-- `style.css` – Estilos visuales personalizados.
-- `script.js` – Código JavaScript que agrega funcionalidades dinámicas.
+This project is an interactive web page developed with **HTML**, **CSS**, and **JavaScript**. It was created as a base to explore dynamic web interfaces.
 
 ---
 
-##  Cómo ejecutar el proyecto localmente
+## Repository Contents
 
-### 1. Clonar el repositorio
+- `index.html` – Main page of the interactive system.
+- `style.css` – Customized visual styles.
+- `script.js` – JavaScript code that adds dynamic functionality.
 
-Ejecuta este comando en tu terminal para descargar el proyecto:
+---
+
+## How to Run the Project Locally
+
+### 1. Clone the repository
+
+Run this command in your terminal to download the project:
 
 ```bash
 git clone https://github.com/Coder-milo/sistema_interactivo.git
 
-2. Entrar a la carpeta del proyecto
+2. Enter the project folder
 
 cd sistema_interactivo
 
-3. Abrir en el navegador
-🔹 Opción 1: Abrir directamente
+3. Open in the browser
 
-    Abre la carpeta descargada en tu explorador de archivos.
+🔹 Option 1: Open directly
 
-    Haz doble clic sobre el archivo index.html.
+    Open the downloaded folder in your file explorer.
 
-🔹 Opción 2: Usar Visual Studio Code (recomendado)
+    Double-click the index.html file.
+
+🔹 Option 2: Use Visual Studio Code (recommended)
 
 code .
 
-    Asegúrate de tener la extensión Live Server instalada.
+    Make sure you have the Live Server extension installed.
 
-    Haz clic derecho sobre index.html y selecciona “Open with Live Server” para ver la web en tiempo real.
-    
+    Right-click on index.html and select “Open with Live Server” to see the website in real time
