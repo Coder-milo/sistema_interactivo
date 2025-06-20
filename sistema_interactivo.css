@@ -1,0 +1,22 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+h1{
+    font-size: 3rem;
+}
+.validacion{
+    background-color: aliceblue;
+    width: 500px;
+    padding:30px ;
+    
+}
+button{
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
